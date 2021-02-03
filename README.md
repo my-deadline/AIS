@@ -1,1 +1,1 @@
-# AIS
+# artificial intelligence systems cource
