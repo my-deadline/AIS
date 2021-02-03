@@ -15,4 +15,4 @@ DF -- Количество отличий
 CR -- Коэфициент корреляции
 
 
-![lab2](https://ibb.co/ZNhn294)
+![lab2](https://ibb.co/jDFrpXZ)
