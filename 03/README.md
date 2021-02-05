@@ -15,5 +15,6 @@
 
 
 ![lab3](https://i.ibb.co/gV3pD8b/image.png)
+Пользователь может добавить кофе в "черный список". Тогда коэфициент будет равен 0. После рекомендации изменятся.
 ![lab3](https://i.ibb.co/wr70MJz/image.png)
 ![lab3](https://i.ibb.co/VWZ5nRL/image.png)
