@@ -13,4 +13,4 @@
 
 ![lab4](https://i.ibb.co/QfCwwDK/image.png)
 ![lab4](https://i.ibb.co/bmDz5Bm/image.png)
-![lab4](https://i.ibb.co/y68NWDq/image.png)
+![lab4](https://i.ibb.co/TkXFSsH/image.png)
