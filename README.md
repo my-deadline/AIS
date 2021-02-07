@@ -1,1 +1,5 @@
-# artificial intelligence systems cource
+Artificial intelligence systems cource
+========================================
+
+>Курс содержит лабораторные работы **2,3,4,5, рк1, 6,7,9**       
+>**рк2** отослан на почту после конференции
