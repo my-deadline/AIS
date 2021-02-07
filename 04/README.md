@@ -10,8 +10,11 @@
 * В случае с видами кофе, которые не нравятся пользователю вычисляется общий коэфициент корреляции и из них выбирается пять лучших. 
 * Виды кофе, которые не нравятся пользователю в рекомендации не попадутт (имеют меньший вес, по сравнению с понравившимися видами)
 
-**Результат работы программы**
 
-![lab4](https://i.ibb.co/QfCwwDK/image.png)
-![lab4](https://i.ibb.co/bmDz5Bm/image.png)
-![lab4](https://i.ibb.co/TkXFSsH/image.png)
+
+### Результат работы программы###
+
+<img src="https://i.ibb.co/QfCwwDK/image.png" width="300" />
+<img src="https://i.ibb.co/bmDz5Bm/image.png" width="300" />
+<img src="https://i.ibb.co/TkXFSsH/image.png" width="300" />
+
