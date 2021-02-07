@@ -13,5 +13,3 @@
 ![lab4](https://i.ibb.co/QfCwwDK/image.png)
 ![lab4](https://i.ibb.co/bmDz5Bm/image.png)
 ![lab4](https://i.ibb.co/TkXFSsH/image.png)
-
-![lab4](https://app.ex.co/stories/dyrcog10/whats-your-biggest-finance-worry-)
