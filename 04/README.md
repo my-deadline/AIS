@@ -10,7 +10,8 @@
 >Виды кофе, которые не нравятся пользователю в рекомендации не попадутт (имеют меньший вес, по сравнению с понравившимися видами)
 
 
-
 ![lab4](https://i.ibb.co/QfCwwDK/image.png)
 ![lab4](https://i.ibb.co/bmDz5Bm/image.png)
 ![lab4](https://i.ibb.co/TkXFSsH/image.png)
+
+![lab4](https://app.ex.co/stories/dyrcog10/whats-your-biggest-finance-worry-)
