@@ -16,5 +16,6 @@
   - DF -- Количество отличий
   - CR -- Коэфициент корреляции
 
+### Результат работы программы:
 
-![lab2](https://i.ibb.co/GRj5hS3/Screenshot-1.png)
+<img src="https://i.ibb.co/GRj5hS3/Screenshot-1.png" width="500" />
