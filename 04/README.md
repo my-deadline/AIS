@@ -11,10 +11,14 @@
 * Виды кофе, которые не нравятся пользователю в рекомендации не попадут    
 * (имеют меньший вес, по сравнению с понравившимися видами)
 
-
+    
+    
+    
+    
 
 ### Результат работы программы###
-
+ 
+ 
 <img src="https://i.ibb.co/QfCwwDK/image.png" width="400" />
 <img src="https://i.ibb.co/bmDz5Bm/image.png" width="400" />
 <img src="https://i.ibb.co/TkXFSsH/image.png" width="400" />
