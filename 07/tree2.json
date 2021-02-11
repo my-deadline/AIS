@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Фильтр кофе",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": false,
+    "roast": 3,
+    "flavor" : 90,
+    "sweetness" : 10,
+    "mouthfeel" : 80,
+    "sourness" : 0.40,
+    "node": 1
+  },
+
+  {
+    "name": "Латте",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": true,
+    "roast": 3,
+    "flavor" : 50,
+    "sweetness" : 80,
+    "mouthfeel" : 60,
+    "sourness" : 0.20,
+    "node": 4
+  },
+
+  {
+    "name": "Раф",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": true,
+    "roast": 4,
+    "flavor" : 40,
+    "sweetness" : 85,
+    "mouthfeel" : 50,
+    "sourness" : 0.20,
+    "node": 5
+  },
+
+  {
+    "name": "Кофе по-турецки",
+    "type": "Робуста",
+    "country" : "Бразилия",
+    "milk": false,
+    "roast": 4,
+    "flavor" : 92,
+    "sweetness" : 18,
+    "mouthfeel" : 70,
+    "sourness" : 0.60,
+    "node": 1
+  },
+
+  {
+    "name": "Эспрессо",
+    "type": "Арабика",
+    "country" : "Танзания",
+    "milk": false,
+    "roast": 3,
+    "flavor" : 96,
+    "sweetness" : 16,
+    "mouthfeel" : 63,
+    "sourness" : 0.70,
+    "node": 2
+  },
+
+  {
+    "name": "Флет уайт",
+    "type": "Арабика",
+    "country" : "Танзания",
+    "milk": true,
+    "roast": 4,
+    "flavor" : 61,
+    "sweetness" : 65,
+    "mouthfeel" : 70,
+    "sourness" : 0.70,
+    "node": 4
+  },
+
+  {
+    "name": "Капучино",
+    "type": "Арабика",
+    "country" : "ЮАР",
+    "milk": true,
+    "roast": 2,
+    "flavor" : 60,
+    "sweetness" : 70,
+    "mouthfeel" : 66,
+    "sourness" : 0.40,
+    "node": 4
+  },
+
+  {
+    "name": "Бревэ",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": true,
+    "roast": 3,
+    "flavor" : 45,
+    "sweetness" : 80,
+    "mouthfeel" : 55,
+    "sourness" : 0.30,
+    "node": 5
+  },
+
+  {
+    "name": "Кон панна",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": true,
+    "roast": 2,
+    "flavor" : 41,
+    "sweetness" : 76,
+    "mouthfeel" : 57,
+    "sourness" : 0.35,
+    "node": 5
+  },
+
+  {
+    "name": "Романо",
+    "type": "Арабика",
+    "country" : "ЮАР",
+    "milk": true,
+    "roast": 3,
+    "flavor" : 45,
+    "sweetness" : 91,
+    "mouthfeel" : 52,
+    "sourness" : 0.20,
+    "node": 6
+  },
+
+  {
+    "name": "Вьетнамский",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": true,
+    "roast": 4,
+    "flavor" : 61,
+    "sweetness" : 80,
+    "mouthfeel" : 70,
+    "sourness" : 0.30,
+    "node": 6
+  },
+
+  {
+    "name": "Кофе по-венски",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": true,
+    "roast": 4,
+    "flavor" : 44,
+    "sweetness" : 70,
+    "mouthfeel" : 45,
+    "sourness" : 0.20,
+    "node": 5
+  },
+  {
+    "name": "Латте макиато",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": true,
+    "roast": 4,
+    "flavor" : 40,
+    "sweetness" : 71,
+    "mouthfeel" : 49,
+    "sourness" : 0.25,
+    "node": 5
+  },
+
+  {
+    "name": "Мокко",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": true,
+    "roast": 3,
+    "flavor" : 53,
+    "sweetness" : 83,
+    "mouthfeel" : 56,
+    "sourness" : 0.27,
+    "node": 5
+  },
+
+  {
+    "name": "Бичерин",
+    "type": "Арабика",
+    "country" : "Танзания",
+    "milk": true,
+    "roast": 2,
+    "flavor" : 38,
+    "sweetness" : 62,
+    "mouthfeel" : 51,
+    "sourness" : 0.30,
+    "node": 5
+  },
+
+  {
+    "name": "Маккиато",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": true,
+    "roast": 3,
+    "flavor" : 47,
+    "sweetness" : 69,
+    "mouthfeel" : 45,
+    "sourness" : 0.30,
+    "node": 4
+  },
+
+  {
+    "name": "Марочино",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": true,
+    "roast": 4,
+    "flavor" : 60,
+    "sweetness" : 47,
+    "mouthfeel" : 50,
+    "sourness" : 0.30,
+    "node": 4
+  },
+
+  {
+    "name": "Кафе крема",
+    "type": "Арабика",
+    "country" : "Мексика",
+    "milk": false,
+    "roast": 4,
+    "flavor" : 67,
+    "sweetness" : 32,
+    "mouthfeel" : 78,
+    "sourness" : 0.60,
+    "node": 2
+  },
+  {
+    "name": "Зорро",
+    "type": "Арабика",
+    "country" : "Эфиопия",
+    "milk": false,
+    "roast": 3,
+    "flavor" : 71,
+    "sweetness" : 20,
+    "mouthfeel" : 80,
+    "sourness" : 0.50,
+    "node": 2
+  },
+
+  {
+    "name": "Лунго",
+    "type": "Робуста",
+    "country" : "Бразилия",
+    "milk": true,
+    "roast": 3,
+    "flavor" : 60,
+    "sweetness" : 60,
+    "mouthfeel" : 68,
+    "sourness" : 0.70,
+    "node": 3
+  }
+
+]
