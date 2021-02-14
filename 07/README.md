@@ -49,9 +49,9 @@
 ### Результат работы программы:
  
  
-<img src="https://i.ibb.co/cT7WH4C/Screenshot-1.png" width="600"/>
-<img src="https://i.ibb.co/NWmNSpR/Screenshot-2.png" width="600"/>
-<img src="https://i.ibb.co/K249xN3/Screenshot-4.png" width="600"/>
+<img src="https://i.ibb.co/cT7WH4C/Screenshot-1.png" width="900"/>
+<img src="https://i.ibb.co/NWmNSpR/Screenshot-2.png" width="900"/>
+<img src="https://i.ibb.co/K249xN3/Screenshot-4.png" width="900"/>
 
 UPD: Добавлено 
 
